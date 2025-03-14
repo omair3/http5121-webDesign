@@ -1,0 +1,60 @@
+/*Setting page font*/
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 1.1em;
+  color: #444;
+  background-color: #4cf808;
+  margin: 10px;
+  padding: 10px;
+}
+
+/* Heading font */
+h1, h2 {
+  font-family: "Georgia", serif;
+  color: #f40d0d;
+}
+
+/* Links section */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #5a6268;
+}
+
+a:hover {
+  color: #dcdc0a;
+  text-decoration: underline;
+}
+
+/* Main section */
+#main {
+  background-color: #f48fbd;
+  padding: 15px;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+  margin: 15px;
+}
+
+/* Footer */
+#footer {
+  background-color: #c9eb0c;
+  color: rgb(244, 91, 14);
+  padding: 15px;
+  text-align: center;
+  border-radius: 5px;
+}
+
+/* Author and Comments sections */
+#author, #comments {
+  background-color: #a8cef4;
+  padding: 12px;
+  border: 1px solid #ced4da;
+  border-radius: 8px;
+  margin: 12px;
+}
+
+
+
